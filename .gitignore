@@ -11,3 +11,4 @@ CMakeLists.txt
 dependencies.lock
 sdkconfig.*
 !sdkconfig.defaults
+*.bak
